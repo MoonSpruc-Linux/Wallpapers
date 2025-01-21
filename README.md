@@ -13,7 +13,11 @@
 <img style="width: 50%;" src="23.jpg"><img style="width: 50%;" src="24.jpg">
 <img style="width: 50%;" src="25.png"><img style="width: 50%;" src="house.jpg">
 <img style="width: 50%;" src="train night.jpeg"><img style="width: 50%;" src="wood-cabin.jpg">
-<img style="width: 50%;" src="yo_street.jpeg">
+<img style="width: 50%;" src="yo_street.jpg">
+
+## Day-Night
+<img style="width: 50%;" src="./day-night/blissful dreams dark.jpg"><img style="width: 50%;" src="./day-night/blissful dreams day.jpeg">
+<img style="width: 50%;" src="./day-night/sand day.jpg"><img style="width: 50%;" src="./day-night/sand night.jpg">
 
 ## Gruvbox
 <img style="width: 50%;" src="./gruvbox/1.jpg"><img style="width: 50%;" src="./gruvbox/2.jpg">
